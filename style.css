@@ -1,0 +1,38 @@
+a{
+    color: #333333 !important;
+}
+a:link {
+    text-decoration: underline;
+}
+a:hover {
+    text-decoration: none;
+}
+#GFG {
+    text-decoration: none;
+}
+.img {
+    height: 25px;
+    border-radius: 50%;
+}
+body{
+}
+
+ul, li {list-style-type: none;}
+
+li {padding-left: 2em; text-indent: -2em;}
+.block{
+    display: inline-block;
+    width: 120px;
+    height: 60px;
+    padding: 5px;
+    border: 1px solid #000000;
+    background-color: #ffffff;
+}
+
+.circle {
+    display: inline-block;
+    background: lightblue;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
